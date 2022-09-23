@@ -6,7 +6,7 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
+- les `structures` de base du langage ✔️ | Javascript est un langage orienté objet. Les objets, en JavaScript, sont le type de données le plus important et constituent les éléments de base du JavaScript moderne. Il existe des valeurs primitives et non primitives.
 - les normes `ecmascript` ❌ / ✔️
 - l'utilisation de l'`asynchrone` ❌ / ✔️
 - les spécifités du mot-clef `this` ❌ / ✔️
@@ -60,4 +60,3 @@ Résolution :
 
 - J'ai ecrit un [tutoriel](...) ❌ / ✔️
 - J'ai fait une [présentation](...) ❌ / ✔️
-
