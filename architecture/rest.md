@@ -30,15 +30,16 @@ Description : Une application pour gérer les wilders dans une base de données 
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+https://www.wave.stream/
+Description : Infrastructure de traitement vidéo s'appuyant sur le Web3 pour permettre à quiconque de créer facilement une application de streaming vidéo
 
-## 🌐 J'utilise des ressources
+## 🌐 J'utilise des ressources | react, typescript, axios
 
-### Titre
+### Titre | Wavestream
 
-- lien
+- lien -
 - description
 
 ## 🚧 Je franchis les obstacles
